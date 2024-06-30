@@ -32,4 +32,4 @@ case $mode in
 		sudo reboot
 
 	*)
-		echo "nothing chosen, start once again"
+		echo "u must choose 1 or 2, start once again"
